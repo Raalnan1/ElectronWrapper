@@ -1,0 +1,1 @@
+XCopy "C:\Users\Oneid\source\repos\YubTub\ElectronWrapper\Echo\*.*" "F:\Users\Oneid\source\repos\YubTub\ElectronWrapper\Echo\" /C /D /S /Y
